@@ -4951,11 +4951,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jnnfr\\Documents\\MSA\\Phase 2\\WebApplication1\\NUnitTesting\\NUnitTesting.csproj",
+      "projectUniqueName": "C:\\Users\\jnnfr\\Documents\\MSA\\Phase 2\\BackEnd\\NUnitTesting\\NUnitTesting.csproj",
       "projectName": "NUnitTesting",
-      "projectPath": "C:\\Users\\jnnfr\\Documents\\MSA\\Phase 2\\WebApplication1\\NUnitTesting\\NUnitTesting.csproj",
+      "projectPath": "C:\\Users\\jnnfr\\Documents\\MSA\\Phase 2\\BackEnd\\NUnitTesting\\NUnitTesting.csproj",
       "packagesPath": "C:\\Users\\jnnfr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jnnfr\\Documents\\MSA\\Phase 2\\WebApplication1\\NUnitTesting\\obj\\",
+      "outputPath": "C:\\Users\\jnnfr\\Documents\\MSA\\Phase 2\\BackEnd\\NUnitTesting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jnnfr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4972,8 +4972,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\jnnfr\\Documents\\MSA\\Phase 2\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
-              "projectPath": "C:\\Users\\jnnfr\\Documents\\MSA\\Phase 2\\WebApplication1\\WebApplication1\\WebApplication1.csproj"
+            "C:\\Users\\jnnfr\\Documents\\MSA\\Phase 2\\BackEnd\\WebApplication1\\WebApplication1.csproj": {
+              "projectPath": "C:\\Users\\jnnfr\\Documents\\MSA\\Phase 2\\BackEnd\\WebApplication1\\WebApplication1.csproj"
             }
           }
         }
